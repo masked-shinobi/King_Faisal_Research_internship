@@ -240,22 +240,6 @@ clearml>=1.0.0  # For HPO tracking
 
 ---
 
-## Performance Summary
-
-### Best Model: Swin-Base + EfficientNetV2-S + XGBoost (Architecture 2)
-
-| Metric | Training | Validation | Testing |
-|--------|----------|------------|---------|
-| Accuracy | 99.99% | 100.0% | 94.37% |
-| Precision | 99.99% | 100.0% | 94.36% |
-| Recall (TPR) | 99.99% | 100.0% | 94.24% |
-| F1 Score | 99.99% | 100.0% | 94.29% |
-| Loss (mlogloss)| 0.0051 | 0.0043 | N/A |
-| AUROC | N/A | N/A | 99.76% |
-| FPR | 0.00% | 0.00% | 0.70% |
-
----
-
 ## License & Contribution Guidelines
 
 This research project is open-source for academic purposes.
