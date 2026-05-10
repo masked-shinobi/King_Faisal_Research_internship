@@ -147,8 +147,8 @@ Suggested items to cite where relevant:
 
 License:
 
-- No explicit license file is currently included in this repository.
-- Treat the contents as research/project material unless a formal license is added.
+- This repository is licensed under the MIT License.
+- See the [LICENSE](LICENSE) file for the full text.
 
 Contribution Guidelines:
 
